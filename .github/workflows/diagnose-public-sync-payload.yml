@@ -6,6 +6,13 @@ on:
       - tmp/publish-gpt-squad-sync
     paths:
       - ".github/workflows/diagnose-public-sync-payload.yml"
+  pull_request:
+    branches:
+      - main
+    types:
+      - synchronize
+    paths:
+      - ".github/workflows/diagnose-public-sync-payload.yml"
 
 permissions:
   contents: read
