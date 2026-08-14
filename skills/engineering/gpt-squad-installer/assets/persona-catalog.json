@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "specialists": [
+    {
+      "name": "product_systems",
+      "displayName": "Product Systems",
+      "description": "Elite product-systems specialist for user intent, policy, workflows, scenarios, operating rules, and measurable outcomes.",
+      "personaFile": "product-systems.md"
+    },
+    {
+      "name": "product_design",
+      "displayName": "Product Design",
+      "description": "Elite product-design specialist for discovery, product concepts, feature architecture, service design, prototyping, and coherent product evolution.",
+      "personaFile": "product-design.md"
+    },
+    {
+      "name": "experience_design",
+      "displayName": "UI/UX & Experience Design",
+      "description": "Elite experience-design specialist for UI/UX, interaction design, information architecture, accessibility, responsive behavior, and design systems.",
+      "personaFile": "experience-design.md"
+    },
+    {
+      "name": "domain_application",
+      "displayName": "Domain & Application Systems",
+      "description": "Elite domain and application specialist for business semantics, boundaries, state, architecture, and complete implementation.",
+      "personaFile": "domain-application.md"
+    },
+    {
+      "name": "data_systems",
+      "displayName": "Data Systems",
+      "description": "Elite data-systems specialist for persistence, transactions, schema evolution, migration, recovery, and query behavior.",
+      "personaFile": "data-systems.md"
+    },
+    {
+      "name": "distributed_systems",
+      "displayName": "Distributed Systems",
+      "description": "Elite distributed-systems specialist for concurrency, messaging, retries, ordering, idempotency, and partial failure.",
+      "personaFile": "distributed-systems.md"
+    },
+    {
+      "name": "integration_evolution",
+      "displayName": "Integration & Evolution",
+      "description": "Elite integration specialist for APIs, events, compatibility, versioning, synchronization, and incremental evolution.",
+      "personaFile": "integration-evolution.md"
+    },
+    {
+      "name": "platform_reliability",
+      "displayName": "Platform Reliability",
+      "description": "Elite platform-reliability specialist for infrastructure, delivery, runtime configuration, observability, recovery, and operations.",
+      "personaFile": "platform-reliability.md"
+    },
+    {
+      "name": "security_trust",
+      "displayName": "Security & Trust",
+      "description": "Elite security specialist for trust boundaries, identity, authorization, secrets, privacy, abuse resistance, and tenant isolation.",
+      "personaFile": "security-trust.md"
+    },
+    {
+      "name": "change_review",
+      "displayName": "Change Review",
+      "description": "Elite change-review specialist for holistic acceptance review, simplicity, scope discipline, maintainability, compatibility, integration risk, and calibrated adversarial findings.",
+      "personaFile": "change-review.md"
+    },
+    {
+      "name": "quality_falsification",
+      "displayName": "Quality & Falsification",
+      "description": "Elite quality specialist for decisive reproduction, behavioral proof, edge cases, failure injection, and independent falsification.",
+      "personaFile": "quality-falsification.md"
+    },
+    {
+      "name": "performance_economics",
+      "displayName": "Performance & Economics",
+      "description": "Elite performance specialist for latency, throughput, resource use, infrastructure cost, complexity, and total engineering economics.",
+      "personaFile": "performance-economics.md"
+    },
+    {
+      "name": "codebase_forensics",
+      "displayName": "Codebase Forensics",
+      "description": "Elite forensic specialist for large-repository discovery, history, hidden ownership, stale documentation, and intent reconstruction.",
+      "personaFile": "codebase-forensics.md"
+    },
+    {
+      "name": "technical_communication",
+      "displayName": "Technical Communication",
+      "description": "Elite technical-communication specialist for clear decisions, reviews, documentation, runbooks, and reader-first engineering narratives.",
+      "personaFile": "technical-communication.md"
+    }
+  ]
+}

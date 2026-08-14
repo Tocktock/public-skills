@@ -1,0 +1,4 @@
+interface:
+  display_name: "GPT Squad Installer"
+  short_description: "Install an elite general specialist squad"
+  default_prompt: "Use $gpt-squad-installer to safely plan and install a Chief Engineer with general elite specialist agents."
