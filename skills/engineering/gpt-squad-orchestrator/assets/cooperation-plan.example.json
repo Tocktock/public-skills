@@ -1,0 +1,35 @@
+{
+  "objective": "Deliver one coherent solution while preserving independent expert judgment",
+  "requestedMode": "auto",
+  "sharedContractsMayChange": false,
+  "canonicalStateMayChange": false,
+  "multiWave": false,
+  "provisionalSharing": true,
+  "peerQuestionsExpected": true,
+  "staleContextRisk": false,
+  "externalOrIrreversible": false,
+  "missions": [
+    {
+      "id": "M01",
+      "specialist": "domain_application",
+      "relationship": "lead",
+      "objective": "Own the coherent domain and implementation outcome",
+      "distinctValue": "Decide the authoritative domain boundary and smallest correct implementation",
+      "writeMode": "writer",
+      "writePaths": [
+        "src/domain"
+      ],
+      "dependsOn": []
+    },
+    {
+      "id": "M02",
+      "specialist": "data_systems",
+      "relationship": "advisor",
+      "objective": "Challenge transaction and migration assumptions",
+      "distinctValue": "Provide decisive persistence and concurrency evidence",
+      "writeMode": "read-only",
+      "writePaths": [],
+      "dependsOn": []
+    }
+  ]
+}

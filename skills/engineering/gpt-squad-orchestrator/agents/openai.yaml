@@ -1,0 +1,4 @@
+interface:
+  display_name: "GPT Squad Orchestrator"
+  short_description: "Run an autonomy-first squad with right-sized cooperation"
+  default_prompt: "Use $gpt-squad-orchestrator for this work. Keep GPT Squad active in this Codex session until I explicitly opt out. Give elite generalist specialists coherent outcome ownership, use the least coordination mode that preserves correctness, allow bounded provisional cooperation through Working Commons, use change_review for holistic adversarial review when review is the owned outcome, and use the transactional Context Hub only when accepted shared state requires recorded role-specific views."
